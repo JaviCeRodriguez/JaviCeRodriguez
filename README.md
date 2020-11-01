@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente, estoy trabajando en mi <a href="https://javicerodriguez.github.io/index.html" target="_blank">Portfolio</a>
 
-- 👯 Soy parte de un proyecto de **catalago**
+- 👯 Soy parte de un proyecto de **BurguerQuiz**
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
