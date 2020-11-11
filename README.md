@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javicerodriguez&label=Profile%20views&color=0e75b6&style=flat" alt="javicerodriguez" /> </p>
 
-- 🔭 Actualmente, estoy trabajando en mi <a href="https://javicerodriguez.github.io/index.html" target="_blank">Portfolio</a>
+- 🔭 Actualmente, estoy trabajando en mi <a href="https://javier-rodriguez.vercel.app/" target="_blank">Portfolio</a>
 
 - 👯 Soy parte de un proyecto de **BurguerQuiz**
 
