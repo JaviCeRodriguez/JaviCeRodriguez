@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente, estoy trabajando en mi <a href="https://javier-rodriguez.vercel.app/" target="_blank">Portfolio</a>
 
-- 👯 Soy parte de un proyecto de **BurguerQuiz**
+- 👯 Soy parte de un proyecto de grupal llamado Cyanogen (pronto habrá novedades)
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
