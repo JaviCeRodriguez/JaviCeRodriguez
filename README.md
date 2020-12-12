@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javicerodriguez&label=Profile%20views&color=0e75b6&style=flat" alt="javicerodriguez" /> </p>
 
-- 🔭 Actualmente terminando con mi [portfolio](https://javier-rodriguez.vercel.app/)
-
-- 🌱 Estoy aprendiendo **JavaScript y el stack MERN**
+- 🌱 Actualmente, estoy aprendiendo **JavaScript y el stack MERN**
 
 - 👯 Estoy en un proyecto colaborativo en **Cyanogen**
 
