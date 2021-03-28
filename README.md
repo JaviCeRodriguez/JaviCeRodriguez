@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Firebase CRUD con JS y HTML: Form y Create](https://dev.to/javicerodriguez/firebase-crud-con-js-y-html-form-y-create-3oe7)
 - [#CienDiasConCourseIt: Día 14/100](https://dev.to/javicerodriguez/ciendiasconcourseit-dia-14-100-3ce2)
 - [#CienDiasConCourseIt: Día 13/100](https://dev.to/javicerodriguez/ciendiasconcourseit-dia-13-100-3cd5)
 - [#CienDiasConCourseIt: Día 12/100](https://dev.to/javicerodriguez/ciendiasconcourseit-dia-12-100-3kp8)
-- [#CienDiasConCourseIt: Día 11/100](https://dev.to/javicerodriguez/ciendiasconcourseit-dia-11-100-1bee)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>
