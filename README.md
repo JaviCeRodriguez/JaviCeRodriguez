@@ -65,7 +65,7 @@ class About_Me():
   <img src=".\assets\logos\git.png" alt="Git" width="40" height="40" />
   <img src=".\assets\logos\github.png" alt="GitHub" width="40" height="40" />
   <img src=".\assets\logos\vercel.png" alt="Vercel" width="" height="40" />
-  <img src=".\assets\logos\firebase.png" alt="Firebase" width="" height="40" />
+  <img src=".\assets\logos\firebasedb.png" alt="Firebase" width="" height="40" />
   <img src=".\assets\logos\fauna.svg" alt="FaunaDB" width="" height="40" />
 </p>
 
