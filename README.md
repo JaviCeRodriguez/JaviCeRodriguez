@@ -37,60 +37,34 @@ class About_Me():
 - [#CienDiasConCourseIt: Día 14/100](https://dev.to/javicerodriguez/ciendiasconcourseit-dia-14-100-3ce2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="center">Contáctame:</h3>
-<p align="center">
-<a href="https://dev.to/javicerodriguez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="javicerodriguez" height="30" width="40" /></a>
-<a href="https://twitter.com/javicerodriguez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="javicerodriguez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rodriguezjavierc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodriguezjavierc" height="30" width="40" /></a>
+<h3>Contáctame:</h3>
+<p>
+  <a href="https://dev.to/javicerodriguez" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="javicerodriguez" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/javicerodriguez" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="javicerodriguez" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/rodriguezjavierc" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodriguezjavierc" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="center">Tecnologías:</h3>
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+<h3>Conocimientos en:</h3>
+<p>
+  <img src=".\assets\logos\javascript.png" alt="JavaScript" width="40" height="40" />
+  <img src=".\assets\logos\typescript.png" alt="TypeScript" width="40" height="40" />
+  <img src=".\assets\logos\tailwind.png" alt="TailwindCSS" width="" height="40" />
+  <img src=".\assets\logos\sass.png" alt="Sass" width="" height="40" />
+  <img src=".\assets\logos\bootstrap.png" alt="Bootstrap" width="40" height="40" />
+  <img src=".\assets\logos\react.png" alt="React.js" width="" height="40" />
+  <img src=".\assets\logos\storybook.png" alt="Storybook" width="" height="40" />
+  <img src=".\assets\logos\python.png" alt="Python" width="40" height="40" />
+  <img src=".\assets\logos\flask.png" alt="Flask" width="" height="40" />
+  <img src=".\assets\logos\django.png" alt="Django" width="" height="40" />
+  <img src=".\assets\logos\git.png" alt="Git" width="40" height="40" />
+  <img src=".\assets\logos\github.png" alt="GitHub" width="40" height="40" />
+  <img src=".\assets\logos\vercel.png" alt="Vercel" width="" height="40" />
 </p>
 
 <p align="center">
