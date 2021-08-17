@@ -69,6 +69,8 @@ class About_Me():
   <img src=".\assets\logos\fauna.svg" alt="FaunaDB" width="" height="40" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javicerodriguez&show_icons=true&locale=en&layout=compact" alt="javicerodriguez" />
+<p align="left">
+  <a href="https://github.com/JaviCeRodriguez"><img width="400" src="https://github-readme-stats.vercel.app/api?username=JaviCeRodriguez&show_icons=true&theme=gotham">
+
+  <a href="https://github.com/JaviCeRodriguez"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviCeRodriguez&hide=html,scss,css&langs_count=10&layout=compact&theme=gotham">
 </p>
