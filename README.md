@@ -29,48 +29,56 @@ class About_Me():
     print(f'A demás de codear: estudio y tomo mate {self.mate}')
 ```
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Firebase CRUD con JS y HTML: Deploy](https://dev.to/javicerodriguez/firebase-crud-con-js-y-html-deploy-4ba6)
-- [Firebase CRUD con JS y HTML: Read, Update y Delete](https://dev.to/javicerodriguez/firebase-crud-con-js-y-html-read-update-y-delete-15no)
-- [Firebase CRUD con JS y HTML: Form y Create](https://dev.to/javicerodriguez/firebase-crud-con-js-y-html-form-y-create-3oe7)
-- [#CienDiasConCourseIt: Día 14/100](https://dev.to/javicerodriguez/ciendiasconcourseit-dia-14-100-3ce2)
-<!-- BLOG-POST-LIST:END -->
+<h3 align="center">Conocimientos en:</h3>
+<table align="center">
+  <tr>
+    <th>Lenguajes</th>
+    <th>Librerías<br/>Frameworks</th>
+    <th>Bases de Datos</th>
+    <th>Herramientas</th>
+  </tr>
+  <tr>
+    <td>
+      Python<br/>
+      JavaScript<br/>
+      MATLAB<br/>
+      C/C++
+    </td>
+    <td>
+      React.js<br/>
+      Next.js<br/>
+      Django<br/>
+      FastAPI
+    </td>
+    <td>
+      Firebase<br/>
+      MongoDB<br/>
+      PostgreSQL<br/>
+      SQLite
+    </td>
+    <td>
+      Git<br/>
+      GitHub/GitLab<br/>
+      Storybook<br/>
+      Trello/Jira
+    </td>
+  </tr>
+</table>
 
-<h3>Contáctame:</h3>
-<p>
-  <a href="https://dev.to/javicerodriguez" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="javicerodriguez" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/javicerodriguez" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="javicerodriguez" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/rodriguezjavierc" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodriguezjavierc" height="30" width="40" />
+<h3 align="center">Contáctame:</h3>
+<p align="center">
+  <a href="https://dev.to/javicerodriguez" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="DEV" height="40" width="40" />
+  </a>&emsp;
+  <a href="https://twitter.com/javicerodriguez" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="Twitter" height="40" width="40" />
+  </a>&emsp;
+  <a href="https://linkedin.com/in/rodriguezjavierc" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" height="40" width="40" />
   </a>
 </p>
 
-<h3>Conocimientos en:</h3>
-<p>
-  <img src=".\assets\logos\javascript.png" alt="JavaScript" width="40" height="40" />
-  <img src=".\assets\logos\typescript.png" alt="TypeScript" width="40" height="40" />
-  <img src=".\assets\logos\tailwind.png" alt="TailwindCSS" width="" height="40" />
-  <img src=".\assets\logos\sass.png" alt="Sass" width="" height="40" />
-  <img src=".\assets\logos\bootstrap.png" alt="Bootstrap" width="40" height="40" />
-  <img src=".\assets\logos\react.png" alt="React.js" width="" height="40" />
-  <img src=".\assets\logos\storybook.png" alt="Storybook" width="" height="40" />
-  <img src=".\assets\logos\python.png" alt="Python" width="40" height="40" />
-  <img src=".\assets\logos\flask.png" alt="Flask" width="" height="40" />
-  <img src=".\assets\logos\django.png" alt="Django" width="" height="40" />
-  <img src=".\assets\logos\git.png" alt="Git" width="40" height="40" />
-  <img src=".\assets\logos\github.png" alt="GitHub" width="40" height="40" />
-  <img src=".\assets\logos\vercel.png" alt="Vercel" width="" height="40" />
-  <img src=".\assets\logos\firebasedb.png" alt="Firebase" width="" height="40" />
-  <img src=".\assets\logos\fauna.svg" alt="FaunaDB" width="" height="40" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/JaviCeRodriguez"><img width="400" src="https://github-readme-stats.vercel.app/api?username=JaviCeRodriguez&show_icons=true&theme=gotham">
-
-  <a href="https://github.com/JaviCeRodriguez"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviCeRodriguez&hide=html,scss,css&langs_count=10&layout=compact&theme=gotham">
+<p align="center">
+  <a href="https://github.com/JaviCeRodriguez"><img width="400" src="https://github-readme-stats.vercel.app/api?username=JaviCeRodriguez&show_icons=true&theme=gotham">&emsp;&emsp;&emsp;&emsp;
+  <a href="https://github.com/JaviCeRodriguez"><img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviCeRodriguez&hide=html,systemverilog,tcl,coq,shell,stata,objetive_c,verilog&langs_count=6&layout=compact&theme=gotham">
 </p>
