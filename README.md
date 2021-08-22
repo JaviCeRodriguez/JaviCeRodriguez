@@ -80,5 +80,5 @@ class About_Me():
 
 <p align="center">
   <a href="https://github.com/JaviCeRodriguez"><img width="400" src="https://github-readme-stats.vercel.app/api?username=JaviCeRodriguez&show_icons=true&theme=gotham">&emsp;&emsp;&emsp;&emsp;
-  <a href="https://github.com/JaviCeRodriguez"><img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviCeRodriguez&hide=html,systemverilog,tcl,coq,shell,stata,objetive_c,verilog&langs_count=6&layout=compact&theme=gotham">
+  <a href="https://github.com/JaviCeRodriguez"><img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviCeRodriguez&hide=jupyter_notebook,html,systemverilog,tcl,coq,shell,stata,objetive_c,verilog&langs_count=6&layout=compact&theme=gotham">
 </p>
