@@ -1,13 +1,12 @@
 <h1 align="center">Hola 👋, Soy Javier Rodriguez</h1>
-<h3 align="center">Tester QA | Desarrollador Frontend | Estudiante de Ingeniería Biomédica</h3>
+<h3 align="center">Desarrollador Full Stack | ex Tester QA | Estudiante de Ingeniería Biomédica</h3>
 
 ```js
 const aprendiendo = () => ['Next.js', 'Flask', 'Django', 'SASS']
-const trabajo = () => console.log('Hago Testing Manual en UNSAM y Maquetado en Delyxode')
+const trabajo = () => console.log('Hago desarrollo en React + Python y Maquetado en Delyxode')
 let portfolio = {
   url: 'https://javier-rodriguez.vercel.app/',
-  stack_usado: ['HTML', 'CSS'],
-  estado: 'Renovando para utilizar Next.js'
+  stack_usado: ['Next.js', 'TailwinCSS', 'Sanity CMS']
 }
 ```
 
@@ -41,8 +40,7 @@ class About_Me():
     <td>
       Python<br/>
       JavaScript<br/>
-      MATLAB<br/>
-      C/C++
+      MATLAB
     </td>
     <td>
       React.js<br/>
@@ -60,7 +58,7 @@ class About_Me():
       Git<br/>
       GitHub/GitLab<br/>
       Storybook<br/>
-      Trello/Jira
+      Trello/Jira/ClickUp
     </td>
   </tr>
 </table>
