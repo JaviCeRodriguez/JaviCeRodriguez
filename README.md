@@ -1,33 +1,6 @@
 <h1 align="center">Hola 👋, Soy Javier Rodriguez</h1>
 <h3 align="center">Desarrollador Full Stack | ex Tester QA | Estudiante de Ingeniería Biomédica</h3>
 
-```js
-const aprendiendo = () => ['Next.js', 'Flask', 'Django', 'SASS']
-const trabajo = () => console.log('Hago desarrollo en React + Python y Maquetado en Delyxode')
-let portfolio = {
-  url: 'https://javier-rodriguez.vercel.app/',
-  stack_usado: ['Next.js', 'TailwinCSS', 'Sanity CMS']
-}
-```
-
-```py
-class About_Me():
-  def __init__(self):
-    self.mate = '🧉'
-    self.user = 'JaviCeRodriguez'
-  
-  def articulos(self):
-    print('Escribo articulos en DEV!')
-    print(f'https://dev.to/{self.user}')
-    
-  def contacto(self):
-    print('Me puedes contactar por mail!')
-    print(f'{self.user}@gmail.com')
-    
-  def otros(self):
-    print(f'A demás de codear: estudio y tomo mate {self.mate}')
-```
-
 <h3 align="center">Conocimientos en:</h3>
 <table align="center">
   <tr>
