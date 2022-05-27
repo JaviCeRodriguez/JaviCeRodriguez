@@ -1,55 +1,44 @@
-<h1 align="center">Hola 👋, Soy Javier Rodriguez</h1>
-<h3 align="center">Desarrollador Full Stack | ex Tester QA | Estudiante de Ingeniería Biomédica</h3>
+Hi 👋 My name is Javier Rodriguez
+=================================
 
-<h3 align="center">Conocimientos en:</h3>
-<table align="center">
-  <tr>
-    <th>Lenguajes</th>
-    <th>Librerías<br/>Frameworks</th>
-    <th>Bases de Datos</th>
-    <th>Herramientas</th>
-  </tr>
-  <tr>
-    <td>
-      Python<br/>
-      JavaScript<br/>
-      MATLAB
-    </td>
-    <td>
-      React.js<br/>
-      Next.js<br/>
-      Django<br/>
-      FastAPI
-    </td>
-    <td>
-      Firebase<br/>
-      MongoDB<br/>
-      PostgreSQL<br/>
-      SQLite
-    </td>
-    <td>
-      Git<br/>
-      GitHub/GitLab<br/>
-      Storybook<br/>
-      Trello/Jira/ClickUp
-    </td>
-  </tr>
-</table>
+Full Stack Developer 🐍 ⚛
+-------------------------
 
-<h3 align="center">Contáctame:</h3>
-<p align="center">
-  <a href="https://dev.to/javicerodriguez" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="DEV" height="40" width="40" />
-  </a>&emsp;
-  <a href="https://twitter.com/javicerodriguez" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="Twitter" height="40" width="40" />
-  </a>&emsp;
-  <a href="https://linkedin.com/in/rodriguezjavierc" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
+* 🌍  I'm based in San Fernando, Buenos Aires
+* 🖥️  See my portfolio at [Portfolio](http://javo.dev.ar/)
+* ✉️  You can contact me at [javicerodriguez@gmail.com](mailto:javicerodriguez@gmail.com)
+* 🚀  I'm currently working on [Incubator](http://incubator.com.ar/)
+* 🧠  I'm learning Next.js, Remix and Django
+* 🤝  I'm open to collaborating on Open Source projects
+* ⚡  I like mates 🧉
+
+<a href="https://www.twitter.com/javicerodriguez" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/javicerodriguez?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+### Skills
+
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/JaviCeRodriguez"><img width="400" src="https://github-readme-stats.vercel.app/api?username=JaviCeRodriguez&show_icons=true&theme=gotham">&emsp;&emsp;&emsp;&emsp;
-  <a href="https://github.com/JaviCeRodriguez"><img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviCeRodriguez&hide=jupyter%20notebook,html,systemverilog,tcl,coq,shell,stata,objetive_c,verilog&langs_count=6&layout=compact&theme=gotham">
-</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/javicerodriguez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/JaviCeRodriguez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rodriguezjavierc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/javicerodriguez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/JaviCeRodriguez"><img src="https://github-readme-stats.vercel.app/api?username=JaviCeRodriguez&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JaviCeRodriguez's GitHub stats" /></a>
