@@ -10,6 +10,7 @@ Mi nombre de Javier. Soy de Buenos Aires, Argentina. Full Stack dev con React y 
 Skills
 ---
 
+* 💬  **Lenguajes**: Python y Typescript principalmente. Aprendiendo Golang
 * 🎨  **Frontend**: React, Next, Gatsby, Styled Components, ChakraUI, MaterialUI, Mobx State Tree, entre otros
 * 🔌  **Backend**: Django, Django REST, FastAPI, algo de Node y Express
 * 📂  **Bases de Datos**: PostgreSQL, MySQL, Firebase, MongoDB, FaunaDB
