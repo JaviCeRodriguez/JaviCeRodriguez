@@ -5,7 +5,7 @@ Mi nombre de Javier. Soy de Buenos Aires, Argentina. Full Stack dev con React y 
 
 * 📚  Estudiante de Licenciatura en Ciencia de Datos en UNSAM
 * 🚀  Actualmente trabajando en [Incubator](http://incubator.com.ar/)
-* 🖥️  Mi [Portfolio](http://javo.dev.ar/)
+* 🖥️  Mi [Portfolio](https://javicerodriguez.com.ar/)
 
 Skills
 ---
