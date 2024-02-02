@@ -1,28 +1,29 @@
-Hola 👋🏽
+Hi 👋🏽
 ---
 
-Mi nombre de Javier. Soy de Buenos Aires, Argentina. Full Stack dev con React y Python!
+I'm Javier, from Buenos Aires, Argentina 🇦🇷.
+Tech Lead Frontend Developer w/ React.js ecosystem.
 
-* 📚  Estudiante de Licenciatura en Ciencia de Datos en UNSAM
-* 🚀  Actualmente trabajando en [Incubator](http://incubator.com.ar/)
-* 🖥️  Mi [Portfolio](https://javicerodriguez.com.ar/)
+* 📚  Bachelor's Student in Data Science - UNSAM
+* 🚀  Currently working at [Incubator](http://incubator.com.ar/)
+* 🖥️  [Portfolio](https://javicerodriguez.com.ar/)
 
 Skills
 ---
 
-* 💬  **Lenguajes**: Python y Typescript principalmente. Aprendiendo Golang
-* 🎨  **Frontend**: React, Next, Gatsby, Styled Components, ChakraUI, MaterialUI, Mobx State Tree, entre otros
-* 🔌  **Backend**: Django, Django REST, FastAPI, algo de Node y Express
-* 📂  **Bases de Datos**: PostgreSQL, MySQL, Firebase, MongoDB, FaunaDB
-* 👨🏽‍🦲  **Personal**: Compañero, atento y cebo buenos mates 🧉
+* 💬  **Languages**: Python and Typescript. Learning Golang
+* 🎨  **Frontend**: React.js, Next.js and all kind of components frameworks and styling libraries
+* 🔌  **Backend**: Django, Django REST, FastAPI. Maybe Next.js 👀
+* 📂  **Databases**: PostgreSQL, Firebase, MongoDB, FaunaDB
+* 👨🏽‍🦲  **Personal**: Friendly and patient. I can prepare bitter mates (🧉)
 
 
-Social - Contacto
+Social - Contact
 ---
 
-Me podés encontrar en varias redes:
+You could contact me by different ways:
 
-[Discord](https://discord.com/users/336692247649189891) - [GitHub (acá)](https://www.github.com/JaviCeRodriguez) - [LinkedIn](https://www.linkedin.com/in/rodriguezjavierc) - [Twitter](https://www.twitter.com/javicerodriguez) - [Correo](mailto:javicerodriguez@gmail.com)
+[Discord](https://discord.com/users/336692247649189891) - [LinkedIn](https://www.linkedin.com/in/rodriguezjavierc) - [Twitter](https://www.twitter.com/javicerodriguez) - [Email](mailto:javicerodriguez@gmail.com)
 
 ---
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/javicerodriguez)
