@@ -6,7 +6,7 @@ I'm Javier, from Buenos Aires, Argentina 🇦🇷 ⭐⭐⭐
 * 📚  Bachelor's Student in Data Science - UNSAM
 * 🚀  Tech Leader Frontend @ [Incubator](http://incubator.com.ar/)
 * 🖥️  [Personal website](https://javicerodriguez.com.ar/)
-* 🧉  Drink mate 24/7
+* 🧉  Drinking mate 24/7
 
 
 Social - Contact
